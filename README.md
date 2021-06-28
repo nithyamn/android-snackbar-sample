@@ -13,3 +13,4 @@ Toasts (Android only) are primarily used for system messaging. They also display
 ## Reference
 - https://developer.android.com/reference/com/google/android/material/snackbar/Snackbar
 - https://www.journaldev.com/10324/android-snackbar-example-tutorial
+- https://material.io/archive/guidelines/components/snackbars-toasts.html
