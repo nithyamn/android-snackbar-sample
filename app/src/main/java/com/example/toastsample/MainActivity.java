@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
                         if (snackbar != null){
-                            Snackbar snackbar1 = Snackbar.make(v, "TextView has been clicked!", Snackbar.LENGTH_LONG);
+                            Snackbar snackbar1 = Snackbar.make(v, "TextView has been clicked!", Snackbar.LENGTH_SHORT);
                             snackbar1.show();
                             //snackbar.dismiss();
                         }
